@@ -73,5 +73,6 @@
 			<attribute name="maven.scope" value="test"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="E:/Rajesh_backup/drivers/geckodriver.exe"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
